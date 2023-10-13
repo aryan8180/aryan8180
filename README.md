@@ -27,3 +27,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan8180&show_icons=true&locale=en&layout=compact" alt="aryan8180" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan8180&" alt="aryan8180" /></p>
+
+[![An image of @aryan8180's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryan8180)](https://holopin.io/@aryan8180)
